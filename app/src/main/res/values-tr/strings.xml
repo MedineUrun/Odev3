@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="to_do_app">Günlük Görevleriniz</string>
+    <string name="description">Görevleri düzenleyin, verimliliği artırın ve günlük başarıları kolayca elde edin!</string>
+    <string name="today_task">Günlük Görev</string>
+    <string name="month_task">Aylık Görev</string>
+    <string name="year_task">Yıllık Görev</string>
+    <string name="button">Not Oluştur</string>
+    <string name="ımport_notes">Notları İçe Aktar</string>
+</resources>

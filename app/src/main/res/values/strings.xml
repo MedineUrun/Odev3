@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="to_do_app">Manage Your Daily TODO</string>
+    <string name="description">Organize tasks, boost productivity, and achieve daily success effortlessly!</string>
+    <string name="today_task">Todays Task</string>
+    <string name="month_task">Monthly Task</string>
+    <string name="year_task">Yearly Task</string>
+    <string name="button">Create A Note</string>
+    <string name="ımport_notes">Import Notes</string>
+</resources>
